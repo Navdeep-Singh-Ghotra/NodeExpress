@@ -23,5 +23,12 @@
   "homepage": "https://github.com/Navdeep-Singh-Ghotra/NodeExpress#readme",
   "dependencies": {
     "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "gulp": "^4.0.2",
+    "gulp-jscs": "^4.1.0",
+    "gulp-jshint": "^2.1.0",
+    "jshint": "^2.10.2",
+    "jshint-stylish": "^2.2.1"
   }
 }
