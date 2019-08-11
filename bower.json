@@ -1,0 +1,26 @@
+{
+  "name": "course2",
+  "description": "This is node plus express project",
+  "main": "app.js",
+  "authors": [
+    "Navdeep Singh Ghotra"
+  ],
+  "license": "ISC",
+  "keywords": [
+    "Node",
+    "Express"
+  ],
+  "homepage": "https://github.com/Navdeep-Singh-Ghotra/NodeExpress",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^4.3.1",
+    "jquery": "^3.4.1",
+    "font-awesome": "^5.10.1"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "name": "course2",
+  "version": "1.0.0",
+  "description": "This is node plus express project",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Navdeep-Singh-Ghotra/NodeExpress.git"
+  },
+  "keywords": [
+    "Node",
+    "Express"
+  ],
+  "author": "Navdeep Singh Ghotra",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Navdeep-Singh-Ghotra/NodeExpress/issues"
+  },
+  "homepage": "https://github.com/Navdeep-Singh-Ghotra/NodeExpress#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
