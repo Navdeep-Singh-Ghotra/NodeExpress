@@ -16,5 +16,5 @@ app.get('/books',function(req,res){
 });
 
 app.listen(5000, function(err){
-    console.log('running server on port '+port)
+    console.log('running server on pport '+port);
 });
